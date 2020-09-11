@@ -13,6 +13,8 @@ MongoDB
 ## Business
 This will begin as an open source project for free use for whomever wants to use it
 
+## Legal
+Information will be private to each group
 
 ## Technical
 * We will use Vue as the front end framework, with javascript
