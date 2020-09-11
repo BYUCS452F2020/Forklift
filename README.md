@@ -2,7 +2,7 @@
 This is a project management service that will allow groups of people to record information about projects they are working on together.  
 
 ## Team
-Michael Sederberg, Cara Chipman, Nicole Curtis
+Michael Sederberg, Cara Johnson, Nicole Curtis
 
 ## Relational Database
 MySQL
