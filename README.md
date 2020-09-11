@@ -19,5 +19,5 @@ Information will be private to each group
 ## Technical
 * We will use Vue as the front end framework, with javascript
 * Javascript Backend using node
-* DynamoDb for NoSQL
+* MongoDB for the NoSQL Database
 * MySQL for the SQL Database
